@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/UNREAL PROJECTS/TopDownShooter/.vs": true,
+		"D:/UNREAL PROJECTS/TopDownShooter/.vscode": true,
+		"D:/UNREAL PROJECTS/TopDownShooter/Content": true,
+		"D:/UNREAL PROJECTS/TopDownShooter/DerivedDataCache": true,
+		"D:/UNREAL PROJECTS/TopDownShooter/Intermediate": true,
+		"D:/UNREAL PROJECTS/TopDownShooter/Saved": true
+	}
+}
